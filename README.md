@@ -17,6 +17,9 @@ Planterior brand site. Next.js + NestJS monorepo, Prisma + PostgreSQL, full cust
 ### 📹 [AI-summary-for-Hikvision-Cameras](https://github.com/vihanatharv-eng/AI-summary-for-Hikvision-Cameras) — live
 Polls a Hikvision NVR, grabs a frame every N minutes, sends it to GPT, emails a daily activity summary. Honest caveat: GPT is asked to *imagine* a summary from the frame, not run real CV. README spells that out.
 
+### 🥗 [nurtisnapv2](https://github.com/vihanatharv-eng/nurtisnapv2) — live
+Food calorie estimation from photos. PyTorch classifier (Food-101 + Indian food fine-tune) + Flask UI with Grad-CAM heatmaps + BMR/TDEE. Academic project; the calorie-counting app I never trusted my phone to do.
+
 ### 💬 [digital-twin](https://github.com/vihanatharv-eng) — in progress
 A WhatsApp digital twin that replies in my tone (Hinglish, short, "Yh" and "Np" included). Started in draft mode — every reply gets approved via Telegram before sending. Slowly graduating to auto-pilot for trusted contacts.
 
